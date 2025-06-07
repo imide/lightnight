@@ -1,0 +1,7 @@
+configDependencies:
+  '@pnpm/better-defaults': 0.2.1+sha512-7uRdLG235SfaS2pzNRrbJaue37VWgGKFZRQr/cASuB6BLU2/9Dt5HDx3s+y5eUFc0I+bC9KgbhqUFzXn1zT4dw==
+onlyBuiltDependencies:
+  - '@biomejs/biome'
+  - '@parcel/watcher'
+  - '@tailwindcss/oxide'
+  - esbuild
